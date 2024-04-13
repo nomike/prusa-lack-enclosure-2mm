@@ -20,4 +20,4 @@ This remix was inspired by the [Prusa Lack Enclosure](https://www.printables.com
 
 #### GitHub
 
-<https://github.com/nomike/prusa-lack-enclosure-2mm>
+<https://github.com/nomike/prusa-lack-enclosure-2mm-remix>

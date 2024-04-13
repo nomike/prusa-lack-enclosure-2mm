@@ -14,10 +14,9 @@ on the prusa blog.
 
 This remix was inspired by the [Prusa Lack Enclosure](https://www.printables.com/model/17-original-prusa-i3-mk3-enclosure-ikea-lack-table-pr)
 
-
 #### Thingiverse
 
-<https://thingiverse.com/thing:>
+<https://thingiverse.com/thing:6576823>
 
 #### GitHub
 
